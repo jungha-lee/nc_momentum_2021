@@ -1,0 +1,20 @@
+@import 'main.css';
+
+.hidden {
+    display: none;
+}
+
+#clock {
+    font-size: 6em;
+}
+
+.toDo__button {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
